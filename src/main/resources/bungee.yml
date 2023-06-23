@@ -1,0 +1,3 @@
+name: BetaSystem
+version: '${project.version}'
+main: de.betasystem.BetaSystem
